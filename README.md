@@ -14,7 +14,9 @@ Since 2008, guests and hosts have used Airbnb to travel in a more unique, person
 ## Business Understanding
 Since 2008, guests and hosts have used Airbnb to travel in a more unique, personalized way. As part of the Airbnb Inside initiative, this dataset describes the listing activity of homestays in Seattle, WA.
 
-In this project, we will use the datasets available on Kaggle: https://www.kaggle.com/datasets/airbnb/seattle Let's answer 3 business questions:
+In this project, we will use the datasets available on Kaggle: https://www.kaggle.com/datasets/airbnb/seattle 
+
+Let's answer 3 business questions:
 
 - Where is the busiest in Seattle?
 - What is the distribution of properties in the city limits?
