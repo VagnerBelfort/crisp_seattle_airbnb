@@ -1,5 +1,7 @@
 # Cross-Industry Standard Process for Data Mining in Seattle Airbnb
 
+Article on medium: [Medium](https://medium.com/@vagner.belfort/applying-crisp-dm-to-an-airbnb-dataset-4a04f0e4b28b)
+
 # Seattle Airbnb Analysis
 Since 2008, guests and hosts have used Airbnb to travel in a more unique, personalized way. As part of the Airbnb Inside initiative, this dataset describes the listing activity of homestays in Seattle, WA.
 
