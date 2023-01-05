@@ -38,13 +38,20 @@ Let's answer 3 business questions:
 
 ## Conclusion
 
-Question 1: Top 5 areas which have the highest number of Airbnb properties in Seattle are: 98122, 98103, 98102, 98105, 98109. They all in the center of Seattle and near Lake Washington where has the most convenient transportation.
+### Question 1: 
+![Count Zipcode](images/zipcode.png)
+Top 5 areas which have the highest number of Airbnb properties in Seattle are: 98122, 98103, 98102, 98105, 98109. They all in the center of Seattle and near Lake Washington where has the most convenient transportation.
 
-Question 2: We can clearly see that most of the listings are concetrated in central areas (Broadway) and Belltown.
+### Question 2:
+ ![Count Zipcode](images/map_zoom_in.png)
+ ![Count Zipcode](images/map_zoom_out.png)
+We can clearly see that most of the listings are concetrated in central areas (Broadway) and Belltown.
 
-Question 3: The modelling also shows us that factors already mentioned above have influence on price: time of the year, location, number of bedrooms, bathrooms, beds and accomodates;
-The host qualities are important: number of host’s listings, number of years since being the host, time in which the host responds to the inquiries;
-The pricing might depend on reviews: number of reviews and review scores.
+### Question 3: 
+![Count Zipcode](images/features_importance.png)
+ - The modelling also shows us that factors already mentioned above have influence on price: time of the year, location, number of bedrooms, bathrooms, beds and accomodates;
+ - The host qualities are important: number of host’s listings, number of years since being the host, time in which the host responds to the inquiries;
+ - The pricing might depend on reviews: number of reviews and review scores.
 
 ## Acknowledgement
 
