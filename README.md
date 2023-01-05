@@ -43,8 +43,8 @@ Let's answer 3 business questions:
 Top 5 areas which have the highest number of Airbnb properties in Seattle are: 98122, 98103, 98102, 98105, 98109. They all in the center of Seattle and near Lake Washington where has the most convenient transportation.
 
 ### Question 2:
- ![Count Zipcode](images/map_zoom_in.png)
- ![Count Zipcode](images/map_zoom_out.png)
+![Count Zipcode](images/map_zoom_out.png)
+![Count Zipcode](images/map_zoom_in.png)
 We can clearly see that most of the listings are concetrated in central areas (Broadway) and Belltown.
 
 ### Question 3: 
